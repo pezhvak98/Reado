@@ -1,0 +1,7 @@
+{
+    "description": "A simple CLI tool to automatically generate README files based on the project structure and its files, which greatly simplifies the process of writing and building README correctly. To use the Gemini 1.5 Flash model, you only need a Google API key. You should note that this tool must be run in the root directory of your project and that Google services must be supported in your country for it to run properly.",
+    "usage_example": "reado set_api_key <YOUR_Gemini_API> , reado init , reado generate",
+    "installation": "sudo pip install reado",
+    "contributing": "",
+    "license": "MIT"
+}
