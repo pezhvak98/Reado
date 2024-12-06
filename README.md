@@ -32,7 +32,7 @@ Reado offers a streamlined workflow to generate your README. Follow these steps:
 
   
 
-1.  **Set your API Key:** Before using Reado, you must set your Google Gemini API](https://aistudio.google.com/) key. This key grants Reado access to the Gemini 1.5 Flash model. Use the following command, replacing `<YOUR_Gemini_API>` with your actual API key:
+1.  **Set your API Key:** Before using Reado, you must set your [Google Gemini API](https://aistudio.google.com/) key. This key grants Reado access to the Gemini 1.5 Flash model. Use the following command, replacing `<YOUR_Gemini_API>` with your actual API key:
 ```bash
 reado  set_api_key  <YOUR_Gemini_API>
 ```
